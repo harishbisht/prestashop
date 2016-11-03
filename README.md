@@ -19,4 +19,4 @@
 
 ##### Step 4: After that send your webservices api key to harish@pickrr.com or info@pickrr.com
 
-##### Step 5: Detailed Description is given in demo video 
+##### Step 5: Detailed Description is given in demo video https://youtu.be/pATbxVOOOwk
